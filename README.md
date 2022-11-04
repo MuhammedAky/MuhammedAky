@@ -16,13 +16,6 @@ Nice to meet you, I'm Muhammed Akyuz
     - Learn Math & Physics (❤️)
     
 <br>
-
-## My Weapons 🌟
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedAky&theme=react)](https://github.com/MuhammedAky/github-readme-stats)
-
-<br>
-
 ## Other Shields 🛡
 
 <p align="left">
