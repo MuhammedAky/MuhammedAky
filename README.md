@@ -2,7 +2,7 @@
 
 Nice to meet you, I'm Muhammed Akyuz
 
-- Personal Website: https://bespoke-mermaid-635faf.netlify.app/
+- Personal Website: https://muhammedaky.netlify.app/
 
 ## Who Am I? 🤠
 
