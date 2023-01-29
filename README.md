@@ -6,15 +6,14 @@ Nice to meet you, I'm Muhammed Akyuz
 
 ## Who Am I? 🤠
 
-- 🤓 Self taught Developer 
-- 👩‍💻 Working on Web & App Development & Game Development & AI
+- Self taught Developer 
+- 💻 Working on Web & App Development & Game Development & AI
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer 
 - 💌 Fun Facts : 
-    - Loves food but can't' cook 🐼 
     - Overthinks thinking to not to overthink 🙂
     - Learn Math & Physics (❤️)
-    
+    - Play Video Games
 <br>
 ## Other Shields 🛡
 
