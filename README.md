@@ -1,62 +1,34 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# Hello, I'm Muhammed Akyüz 👋
 
-Nice to meet you, I'm Muhammed Akyuz
+I'm an electrical and electronics engineering student with a strong passion for software development. While I'm not a software engineer by profession, I'm deeply interested in software development and actively pursue it alongside my studies. Here's a little bit about me:
 
-- Personal Website: https://muhammedaky.netlify.app/
+## 📚 About Me
 
-## Who Am I? 🤠
+- 🎓 I'm currently a student of Electrical and Electronics Engineering.
+- 💻 I have a strong affinity for software development and coding.
+- 🌐 Check out my [Personal Website](https://muhammedaky.netlify.app/) to learn more about me.
 
-- Self taught Developer 
-- 💻 Working on Web & App Development & Game Development & AI
-- 📝 Writing Words, Compiling Code
-- 🎯 Goal : To be a better Developer 
-- 💌 Fun Facts : 
-    - Overthinks thinking to not to overthink 🙂
-    - Learn Math & Physics (❤️)
-    - Play Video Games
-<br>
-## Other Shields 🛡
+## 💻 Technologies I Love
 
-<p align="left">
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <br />
-    <br />
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <br />
-    <br />
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <br />
-    <br />
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp; &nbsp;
-</p>
+I enjoy working with a variety of programming languages and technologies, including:
 
-<br>
+- 🐍 Python
+- ☕ Java
+- 🌐 Web Development (HTML, CSS, JavaScript)
+- 🖥️ C and C++
+- ⚡ Electrical and Electronics Engineering
 
- 
-## Github Status 🏆
-![github graph](https://activity-graph.herokuapp.com/graph?username=MuhammedAky&theme=react-dark)
-<br>
+## 🚀 My Achievements
 
-<p align="center">Wanna Know me More?</p>
+I love a coding challenge, and you can find me on CodeWars, where I enjoy solving coding problems. Check out my [CodeWars Profile](https://www.codewars.com/users/MuhammedAky) to see my solutions.
 
-<p align="center">
- 
+## 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/muhammed-aky%C3%BCz-63b5b719b/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
-</p>
+- Let's connect on [LinkedIn](https://www.linkedin.com/in/muhammed-aky%C3%BCz-63b5b719b/).
+- Visit my [GitHub Profile](https://github.com/MuhammedAky) for more of my projects.
+
+## 🌟 Get in Touch
+
+I'm always open to collaborations and new opportunities. Whether it's coding, projects, or just a friendly chat, don't hesitate to reach out. Let's learn and grow together!
+
+Looking forward to connecting with like-minded individuals. 🌟
